@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "MyStore": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "MyStore"
+    }
+  },
+  "defaultProject": "MyStore",
+  "cli": {
+    "analytics": "526007f8-5162-4847-994c-035ceb54c1d6"
+  }
 }
